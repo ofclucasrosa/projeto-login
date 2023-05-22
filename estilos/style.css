@@ -17,7 +17,8 @@
 }
 
 html, body {
-    background-image: linear-gradient(to top, #e0e1dd, #bbd0ff, #be95c4, #9f86c0, #ffd6ff);
+    background-image: linear-gradient(to bottom, #ffd6ff, #9f86c0, #be95c4, #bbd0ff, #e0e1dd);
+    ba
     height: 100vh;
     width: 100vw;
 }
