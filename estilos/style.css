@@ -18,7 +18,7 @@
 
 html, body {
     background-image: linear-gradient(to bottom, #ffd6ff, #9f86c0, #be95c4, #bbd0ff, #e0e1dd);
-    ba
+    background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
 }
